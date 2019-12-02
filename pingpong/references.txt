@@ -1,0 +1,16 @@
+https://stackoverflow.com/questions/18418125/java-brickbreaker-paddle-collision-detection
+https://stackoverflow.com/questions/39763573/how-to-paint-on-jframe
+https://www.ntu.edu.sg/home/ehchua/programming/java/J8a_GameIntro-BouncingBalls.html
+https://www.geeksforgeeks.org/multithreading-in-java/
+https://www.journaldev.com/1020/thread-sleep-java
+https://www.ntu.edu.sg/home/ehchua/programming/java/J8a_GameIntro-BouncingBalls.html
+https://en.wikipedia.org/wiki/Control_logic
+https://docs.oracle.com/javase/tutorial/uiswing/concurrency/dispatch.html
+https://docs.oracle.com/javase/tutorial/essential/concurrency/interfere.html
+https://www.youtube.com/watch?v=ghqD3e37R7E
+http://alvinalexander.com/java/java-audio-example-java-au-play-sound
+http://beginwithjava.blogspot.com/2011/04/java-file-save-and-file-load-objects.html
+https://www.codejava.net/coding/how-to-play-back-audio-in-java-with-examples
+https://stackoverflow.com/questions/6045384/playing-mp3-and-wav-in-java
+https://docs.oracle.com/javase/tutorial/uiswing/concurrency/dispatch.html
+https://tutorialedge.net/gamedev/aabb-collision-detection-tutorial/
